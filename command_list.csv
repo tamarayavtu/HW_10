@@ -1,0 +1,166 @@
+    1  man ls
+    2  ls
+    3  cls
+    4  clean\\nclean
+    5  clear
+    6  ls
+    7  cd desktop
+    8  ls desktop
+    9  ls Desktop
+   10  cd :
+   11  cd ..
+   12  cd downloads
+   13  ls downloads
+   14  cd :
+   15  cd~
+   16  cd ~
+   17  pwd
+   18  ls Applications
+   19  cd Downloads
+   20  pwd
+   21  cd ..
+   22  cd Documents
+   23  pwd
+   24  mkdir Lesson
+   25  mkdir Lesson 2
+   26  cd D
+   27  cd ..
+   28  cd Desktop
+   29  text.txt
+   30  cd empty.txt
+   31  touch empty.txt
+   32  cler
+   33  clear
+   34  vim empty.txt
+   35  nano empty.txt
+   36  nano empty.txt
+   37  cat empty.txt
+   38  nano empty.txt
+   39  cat empty.txt
+   40  nano empty.txt
+   41  cat empty.txt
+   42  cp empty.txt
+   43  pwd
+   44  clear
+   45  cp desktop
+   46  mv  rm empty.txt
+   47  clear
+   48  rm empty.txt
+   49  desktop 
+   50  cd desktop
+   51  rm empty.txt
+   52  ping goit.com
+   53  system_profiler
+   54  clear
+   55  df-h
+   56  df -h
+   57  ifconfig
+   58  rm empty.txt
+   59  clear
+   60  whoami
+   61  cd Desktop
+   62  ls 
+   63  ls Desktop
+   64  ls
+   65  chmod 777 text.txt
+   66  touch text.txt
+   67  chmod 777 text.txt
+   68  clear
+   69  git -version
+   70  git --version
+   71  clear
+   72   git --version
+   73  git -- version
+   74  clear
+   75  CD git
+   76  cd Desktop
+   77  cd git
+   78  git config --global user.name "Tamara Yavtushenko"
+   79  clear
+   80  cd Desktop
+   81  cd..Desktop
+   82  clea
+   83  clear
+   84  clear
+   85  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n
+   86  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n\n
+   87  brew install git
+   88    echo >> /Users/yavtufamily/.zprofile
+   89  echo >> /Users/yavtufamily/.zprofile
+   90  echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/yavtufamily/.zprofile
+   91  eval "$(/opt/homebrew/bin/brew shellenv)"
+   92  brew help
+   93  brew install git
+   94  git version
+   95  clear
+   96  cd Desktop
+   97  cd git
+   98  git config --global user.name "Yavtushenko Tamara"
+   99  git config --global user.email tamarabhat2@gmail.com
+  100  git clone https://github.com/tamarayavtu/Lesson3.1.git
+  101  git status
+  102  cd Lesson3.1
+  103  git status
+  104  touch New.txt
+  105  git add New.txt
+  106  git status
+  107  git commit -m "New file created"
+  108  git status
+  109  git log 
+  110  git branch
+  111  git checkout -b new_branch
+  112  git branch
+  113  git checkout main
+  114  git checkout new_branch
+  115  nano New.txt
+  116  git status
+  117  git commit
+  118  git commit -m "New modified"
+  119  git branch
+  120  git checkout main
+  121  git merge new_branch
+  122  git branch
+  123  git status
+  124  git add New.txt
+  125  git status
+  126  git commit -m "New modified"
+  127  git push
+  128  git push
+  129  git push
+  130  git push
+  131  git push
+  132  git push
+  133  cd HW_10
+  134  c && rm
+  135  -c && rm ~/.bash_history
+  136  /.bash_history
+  137  history -c —
+  138  history -c
+  139  history -c && rm ~/.bash_history
+  140  cd Desktop
+  141  cd HW_10
+  142  history -c && rm ~/.bash_history
+  143  git config -global user.name "Tamara Yavtushenko"
+  144  git config --global user.name "Tamara Yavtushenko"
+  145  git config --global user.email tamarabhat2@gmail.com
+  146  git clone https://github.com/tamarayavtu/HW_10.git
+  147  cd HW_10
+  148  touch text_ignore.txt 
+  149  vim .gitignore
+  150  git status
+  151  git add .
+  152  git commit -m "Added text_ignore.txt to .gitignore"
+  153  touch main_test.txt
+  154  git add .
+  155  git commit -m "Created main_test.txt"
+  156  git checkout -b develop
+  157  touch develop_test.txt
+  158  git add .
+  159  git commit -m "Create develop_test.txt"
+  160  nano develop_test.txt
+  161  git status
+  162  git add .
+  163  git commit -m "Update develop_test.txt"
+  164  git checkout main
+  165  git merge develop
+  166  git log
